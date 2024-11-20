@@ -1,5 +1,7 @@
 # Car Rental Project
 
+https://chatgpt.com/share/673d6c45-3d30-800f-b416-17d2dcc6a9d0
+
 i want to create a car rental API in dot net core 8. 
 To do so i need to have following Entities.
 
