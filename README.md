@@ -16,6 +16,13 @@ meantime the response of the system should be unique by obeying the pattern {suc
 
 for DTOs validation need to be applied
 
+### veryfy whether dotnet & entityframework tools got installed
+```bash
+dotnet --version
+dotnet ef --version
+
+dotnet tool install --global dotnet-ef
+```
 
 ## How to create project 
 
