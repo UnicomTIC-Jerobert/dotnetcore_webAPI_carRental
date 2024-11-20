@@ -18,5 +18,7 @@ for DTOs validation need to be applied
 
 
 How to create project 
+
 dotnet new webapi -n CarRentalAPI -controllers
+
 dotnet new gitignore
